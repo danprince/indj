@@ -1,0 +1,7 @@
+{
+  "FIREBASE_URL": "https://indj.firebaseio.com",
+  "SANITY_TERMS": [
+    "Official Video", "Official Audio", "Official", "Lyric Video",
+    "Lyrics"
+  ]
+}
